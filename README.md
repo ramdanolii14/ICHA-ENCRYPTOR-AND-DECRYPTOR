@@ -1,4 +1,4 @@
-# ICHA Encryptor and Decryptor
+# ICHA - Isolated Cipher with Hand-delivered Authentication
 
 A portable Windows application for encrypting files so that only one intended recipient can open them. Each encrypted file comes with a one-time key file that is destroyed after the file has been successfully opened.
 
